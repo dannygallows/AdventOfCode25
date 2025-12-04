@@ -34,5 +34,4 @@ using (var reader = new StreamReader("input.txt"))
         }
     }
 }
-Console.WriteLine(result);
 Console.WriteLine(count);
